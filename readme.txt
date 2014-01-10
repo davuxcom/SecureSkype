@@ -1,0 +1,1 @@
+Skype4COM has been deprecated, so the chat APIs no longer function.
